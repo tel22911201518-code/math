@@ -1,0 +1,26 @@
+body {
+            background: #312408;
+            color: rgb(189, 111, 10);
+            font-size: 20;
+            text-align: center;
+            margin: 0;
+            }
+a{
+    text-decoration: none;
+    color: #706d39;
+    background-color: #380655;
+    border: 3px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+header{
+    height: 15%;
+    background-color: #310a0a;
+}
+
+footer{
+    height: 10%;
+    font-size: 50;
+    background-color: #0f6807;    
+}
